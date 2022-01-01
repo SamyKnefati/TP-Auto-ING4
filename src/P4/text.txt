@@ -1,0 +1,1 @@
+Affichage de la chaine sur ecran
